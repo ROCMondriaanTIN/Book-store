@@ -1,4 +1,5 @@
 # Book-store
+date: 16/08/2014
 
 <p>Deze project heet book store website om de klanten boeken te kunnen bestellen.</p>
 
