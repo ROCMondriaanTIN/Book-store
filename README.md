@@ -1,6 +1,6 @@
 # Book-store
-date: 16/08/2014
-
+title: "My post title"
+date: 08/16/2014
 <p>Deze project heet book store website om de klanten boeken te kunnen bestellen.</p>
 
 ## De talen om deze project te programmeren zijn:
